@@ -14,7 +14,7 @@ Estudante de **Inteligência Artificial**, focado em transformar dados em soluç
 ---
 
 ### 🎓 Formação Acadêmica
-
+-🏫 **Ensino Médio técnico em Biotecnologia** — IFG-FORMOSA
 - 🎓 **Graduação em Inteligência Artificial** — CEUB *(Em andamento - 1º Semestre)*
 
 ---

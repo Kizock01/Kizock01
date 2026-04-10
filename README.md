@@ -1,34 +1,57 @@
-# Olá! Eu sou o Guilherme Bastos 👋
+# Olá, eu sou o Guilherme Bastos 👋
 
-### 👨‍💻 Perfil Pessoal
+### 👨‍💻 Perfil Profissional
 
-Jovem profissional com perfil analítico e formação técnica. Combino a disciplina científica adquirida no curso de Biotecnologia com habilidades digitais em programação e informática básica. Possuo inglês avançado e busco uma oportunidade para aplicar minha capacidade de resolução de problemas e aptidão tecnológica em um ambiente dinâmico.
-
-📫 **Contatos:**
-- 📧 **Email:** gbastosmoreira@gmail.com
-- 🔗 **LinkedIn:** [guilherme-bastos-0a87382aa](https://www.linkedin.com/in/guilherme-bastos-0a87382aa)
+Estudante de **Inteligência Artificial**, focado em transformar dados em soluções inteligentes. Minha trajetória une a precisão técnica da **Biotecnologia** com o poder de processamento da computação moderna. Sou um entusiasta da automação e busco constantemente novas formas de aplicar algoritmos de IA para resolver problemas complexos e otimizar processos digitais.
 
 ---
 
-### 🎓 Formação
+### 📬 Conecte-se comigo:
 
-- 🏫 **Ensino Médio Técnico em Biotecnologia** — Instituto Federal de Goiás (IFG) - Campus Formosa *(03/2023 a 12/2025)*
-- 🎓 **Graduação em Inteligência Artificial** — CEUB *(1º Semestre Noturno)*
-
----
-
-### 💼 Qualificações e Cursos
-
-- **Soft Skills:** Facilidade em trabalhar em equipe, boa comunicação e constante vontade de aprender e desenvolver novas competências.
-- **Idiomas:** Inglês Avançado (YES Cursos e Idiomas, 2022-2025).
-- **Tecnologia:** Informática Básica, Programação e Pacote Office Intermediário (Word, Excel, PowerPoint).
-- **Técnicas:** Práticas laboratoriais (Vidrarias, Microscopia, preparo de soluções) adquiridas no curso técnico.
+- 📧 **Email:** [gbastosmoreira@gmail.com](mailto:gbastosmoreira@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/guilherme-bastos](https://www.linkedin.com/in/guilherme-bastos-0a87382aa)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🎓 Formação Acadêmica
+
+- 🎓 **Graduação em Inteligência Artificial** — CEUB *(Em andamento - 1º Semestre)*
+- 🏫 **Técnico em Biotecnologia** — Instituto Federal de Goiás (IFG)
+- 🧪 **Práticas Laboratoriais:** Experiência em microscopia, vidrarias e preparo de soluções complexas.
+
+---
+
+### 🧠 Habilidades Técnicas e Tecnologias
+
+Nesta seção, foquei no seu domínio em Python, substituindo os indicadores de Web por linguagens de dados:
+
+- **Linguagens:** - 🐍 **Python:** 45% (Foco em lógica e automação)
+  - 📂 **Manipulação de Dados:** 30%
+- **Ferramentas de IA:** Engenharia de Prompt, Automação de Fluxos de Trabalho e IA Generativa para conteúdo.
+- **Idiomas:** - 🇧🇷 Português (Nativo)
+  - 🇺🇸 Inglês (Intermediário B2 - Avançado em leitura técnica)
+
+---
+
+### 🤖 Projetos e Interesses
+
+- **Inteligência Artificial Aplicada:** Desenvolvimento de automações inteligentes e uso estratégico de ferramentas de IA para ganho de produtividade.
+- **Python Scripting:** Criação de scripts para resolução de problemas lógicos e tratamento de informações.
+- **Cultura Maker & Digital:** Forte interesse em empreendedorismo digital e inovação tecnológica.
+
+---
+
+### 📈 Estatísticas de Desenvolvedor
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kizock01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizock01&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizock01&layout=compact&langs_count=7&theme=tokyonight&hide=html,css,javascript"/>
 </div>
+
+---
+
+### 🎯 Objetivos Atuais
+
+- 🚀 Consolidar conhecimentos avançados em bibliotecas Python para IA (Pandas, NumPy, Scikit-learn).
+- 💡 Desenvolver soluções de automação que integrem IA e Biotecnologia.
+- 🌍 Expandir minha atuação no ambiente digital através de projetos open-source.

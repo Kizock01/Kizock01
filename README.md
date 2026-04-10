@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Perfil Profissional
 
-Estudante de **Inteligência Artificial**, focado em transformar dados em soluções inteligentes. Minha trajetória une a precisão técnica da **Biotecnologia** com o poder de processamento da computação moderna. Sou um entusiasta da automação e busco constantemente novas formas de aplicar algoritmos de IA para resolver problemas complexos e otimizar processos digitais.
+Estudante de **Inteligência Artificial**, focado em transformar dados em soluções inteligentes. Sou um entusiasta da automação e busco constantemente novas formas de aplicar algoritmos de IA para resolver problemas complexos, gerando eficiência e otimizando processos no ambiente digital.
 
 ---
 
@@ -16,20 +16,16 @@ Estudante de **Inteligência Artificial**, focado em transformar dados em soluç
 ### 🎓 Formação Acadêmica
 
 - 🎓 **Graduação em Inteligência Artificial** — CEUB *(Em andamento - 1º Semestre)*
-- 🏫 **Técnico em Biotecnologia** — Instituto Federal de Goiás (IFG)
-- 🧪 **Práticas Laboratoriais:** Experiência em microscopia, vidrarias e preparo de soluções complexas.
 
 ---
 
 ### 🧠 Habilidades Técnicas e Tecnologias
 
-Nesta seção, foquei no seu domínio em Python, substituindo os indicadores de Web por linguagens de dados:
-
 - **Linguagens:** - 🐍 **Python:** 45% (Foco em lógica e automação)
   - 📂 **Manipulação de Dados:** 30%
 - **Ferramentas de IA:** Engenharia de Prompt, Automação de Fluxos de Trabalho e IA Generativa para conteúdo.
 - **Idiomas:** - 🇧🇷 Português (Nativo)
-  - 🇺🇸 Inglês (Intermediário B2 - Avançado em leitura técnica)
+  - 🇺🇸 Inglês Avançado
 
 ---
 
@@ -53,5 +49,5 @@ Nesta seção, foquei no seu domínio em Python, substituindo os indicadores de 
 ### 🎯 Objetivos Atuais
 
 - 🚀 Consolidar conhecimentos avançados em bibliotecas Python para IA (Pandas, NumPy, Scikit-learn).
-- 💡 Desenvolver soluções de automação que integrem IA e Biotecnologia.
+- 💡 Desenvolver soluções de automação e machine learning aplicadas a negócios.
 - 🌍 Expandir minha atuação no ambiente digital através de projetos open-source.

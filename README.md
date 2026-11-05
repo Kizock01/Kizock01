@@ -61,6 +61,7 @@ Isso vem de projetos pessoais, acadêmicos e em equipe. Ainda não tenho experi�
 - Residência em Inteligência Artificial, Instituto ELDORADO e UnB, Campus Gama (em andamento)
 - Bacharelado em Inteligência Artificial, CEUB (em andamento)
 - Técnico em Inteligência Artificial, IFNMG, EAD (em andamento)
+- Superior de Tecnologia em Inteligência Artificial, Universidade Cruzeiro do Sul, EAD (em andamento)
 - Ensino médio técnico em Biotecnologia, IFG Formosa
 
 Inglês avançado.

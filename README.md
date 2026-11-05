@@ -4,7 +4,7 @@ Estudo Inteligência Artificial em Brasília e quero trabalhar com AI e MLOps: p
 
 Moro em Formosa (GO) e posso trabalhar em Brasília, remoto ou híbrido.
 
-[Portfólio](https://kizock01.github.io/PortfolioHUB/) · [LinkedIn](https://www.linkedin.com/in/guilherme-bastos-0a87382aa) · [E-mail](mailto:gbastosmoreira@gmail.com)
+[Site do portfólio](https://kizock01.github.io/PortfolioHUB/) · [Repositório do portfólio](https://github.com/Kizock01/PortfolioHUB) · [LinkedIn](https://www.linkedin.com/in/guilherme-bastos-0a87382aa) · [E-mail](mailto:gbastosmoreira@gmail.com)
 
 ## Lume
 
@@ -12,7 +12,8 @@ Na Residência em IA (UnB e Instituto ELDORADO), meu grupo de seis pessoas criou
 
 - [Página do Lume](https://lume-previa.vercel.app/): protótipo 0.4.3, APK para Android e gravação do app funcionando
 - [Código no GitHub](https://github.com/matheushpr94/challenge-fakenews-unb)
-- [Minha parte, no portfólio](https://kizock01.github.io/PortfolioHUB/#lume)
+- [Seção do Lume no meu site (GitHub Pages)](https://kizock01.github.io/PortfolioHUB/#lume), com a divisão do que fiz e do que é do grupo
+- [Repositório do site](https://github.com/Kizock01/PortfolioHUB)
 
 Sou quem mais fez commits no repositório (20). Escrevi o app Android com OCR, a comparação de fontes, o sinal do texto e a ligação dos modelos ao app, além do gateway que deixa o celular usar esses modelos sem cabo. O modelo que decide se duas notícias tratam do mesmo fato, o "modelo 6B" do banner, é do Matheus Henrique Picone Rosa; eu o integrei ao aplicativo. Os créditos de cada pessoa estão na [documentação da equipe](https://github.com/matheushpr94/challenge-fakenews-unb/blob/main/docs/scrum_e_equipe.md).
 
